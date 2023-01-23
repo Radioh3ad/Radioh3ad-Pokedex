@@ -45,8 +45,12 @@ main {
     font-weight: 600;
     color: gray;
     top: 54.5%;
-    right: 27%;
-    font-size: clamp(8px, 5vw, 25px);
+    right: 28%;
+    font-size: clamp(4px, 4vw, 22px);
+}
+
+.pokemon_type {
+    color: #333;
 }
 
 .pokemon_name {
